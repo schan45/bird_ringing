@@ -19,6 +19,13 @@ It features a Hungarian-language GUI for adding, editing, and managing capture d
 - Logo displayed from external file (`madarlogo.png`)
 
 ---
+## Example UI layout
+
+<p align="center">
+  <img src="ui_example.png" width="240">
+</p>
+
+---
 
 ## Project Structure
 
