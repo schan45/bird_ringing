@@ -1,0 +1,386 @@
+Alka, Alca torda, ALCTOR  
+Apácahantmadár, Oenanthe pleschanka, OENPLE  
+Apácalúd, Branta leucopsis, BRALEU  
+Apró partfutó, Calidris minuta, CALMIN  
+Aranylile, Pluvialis apricaria, PLUAPR  
+Ázsiai pettyeslile, Pluvialis fulva, PLUFUL  
+Bajszos poszáta, Sylvia cantillans, SYLCAN  
+Bajszos sármány, Emberiza cia, EMBCIA  
+Bakcsó, Nycticorax nycticorax, NYCNYC  
+Balkáni fakopáncs, Dendrocopos syriacus, DENSYR  
+Balkáni gerle, Streptopelia decaoto, STRDEC  
+Barátcinege, Parus palustris, PARPAL  
+Barátkeselyű, Aegypius monachus, AEGMON  
+Barátposzáta, Sylvia atricapilla, SYLATR  
+Barátréce, Aythya ferina, AYTFER  
+Barázdabillegető, Motacilla alba, MOTALB  
+Barkóscinege, Panurus biarmicus, PANBIA  
+Barna füzike, Phylloscopus fuscatus, PHYFUS  
+Barnahasú pusztaityúk, Pterocles exustus, PTEEXU  
+Barna kánya, Milvus migrans, MILMIG  
+Barna rétihéja, Circus aeruginosus, CIRAER  
+Barna zsezse, Carduelis cabaret, CARCAB  
+Batla, Plegadis falcinellus, PLEFAL  
+Békászó sas, Aquila pomarina, AQUPOM  
+Berki poszáta, Cettia cetti, CETCET  
+Berki tücsökmadár, Locustella fluviatilis, LOCFLU  
+Bíbic, Vanellus vanellus, VANVAN  
+Billegetőcankó, Actitis hypoleucos, ACTHYP  
+Böjti réce, Anas querquedula, ANAQUE  
+Bölömbika, Botaurus stellaris, BOTSTE  
+Bonaparte-partfutó, Calidris fuscicollis, CALFUS  
+Bonelli-füzike, Phylloscopus bonelli, PHYBON  
+Borzas gödény, Pelecanus crispus, PELCRI  
+Búbosbanka, Upupa epops, UPUEPO  
+Búbos cinege, Parus cristatus, PARCRI  
+Búbos pacsirta, Galerida cristata, GALCRI  
+Búbos vöcsök, Podiceps cristatus, PODTUS  
+Bütykös ásólúd, Tadorna tadorna, TADTAD  
+Bütykös hattyú, Cygnus olor, CYGOLO  
+Cankópartfutó, Tryngites subruficollis, TRYSUB  
+Cifra pehelyréce, Somateria spectabilis, SOMSPE  
+Cigánycsuk, Saxicola torquata, SAXTOR  
+Cigányréce, Aythya nyroca, AYTNYR  
+Citrombillegető, Motacilla citreola, MOTCIT  
+Citromsármány, Emberiza citrinella, EMBCIT  
+Császármadár, Bonasa bonasa, BONBON  
+Cserregő nádiposzáta, Acrocephalus scirpaceus, ACRSCI  
+Csicsörke, Serinus serinus, SERSER  
+Csigaforgató, Haematopus ostralegus, HAEOST  
+Csíkosfejű nádiposzáta, Acrocephalus paludicola, ACROLA  
+Csilpcsalpfüzike, Phylloscopus collybita, PHYCOL  
+Csíz, Carduelis spinus, CARSPI  
+Csóka, Corvus monedula, CORMON  
+Csonttollú, Bombycilla garrulus, BOMGAR  
+Csörgő réce, Anas crecca, ANACRE  
+Csüllő, Rissa tridactyla, RISTRI  
+Csuszka, Sitta europaea, SITEUR  
+Dankasirály, Larus ridibundus, LARRID  
+Darázsölyv, Pernis apivorus, PERAPI  
+Daru, Grus grus, GRUGRU  
+Déli hantmadár, Oenanthe hispanica, OENHIS  
+Dögkeselyű, Neophron percnopterus, NEOPER  
+Dolmányos sirály, Larus marinus, LARMAR  
+Dolmányos varjú, Corvus cornix, CORNIX  
+Egerészölyv, Buteo buteo, BUTBUT  
+Ékfarkú halfarkas, Stercorarius parasiticus, STECUS  
+Ékfarkú lile, Charadrius vociferus, CHAVOC  
+Eleonóra-sólyom, Falco eleonorae, FALELE  
+Énekes hattyú, Cygnus cygnus, CYGCYG  
+Énekes nádiposzáta, Acrocephalus palustris, ACRRIS  
+Énekes rigó, Turdus philomelos, TURPHI  
+Erdei cankó, Tringa ochropus, TRIOCH  
+Erdei fülesbagoly, Asio otus, ASIOTU  
+Erdei pacsirta, Lullula arborea, LULARB  
+Erdei pinty, Fringilla coelebs, FRICOE  
+Erdei pityer, Anthus trivialis, ANTTRI  
+Erdei szalonka, Scolopax rusticola, SCORUS  
+Erdei szürkebegy, Prunella modularis, PRUMOD  
+Északi búvár, Gavia stelleta, GAVSTE  
+Ezüstlile, Pluvialis squatarola, PLUSQU  
+Ezüstsirály, Larus argentatus, LARARG  
+Fácán, Phasianus colchicus, PHACOL  
+Fakó keselyű, Gyps fulvus, GYPFUL  
+Fakó rétihéja, Circus macrourus, CIRMAC  
+Fattyúszerkő, Chlidonias hybridus, CHLHYB  
+Fecskesirály, Larus sabini, LARSAB  
+Fehérfarkú lilebíbic, Chettusia leucura, CHELEU  
+Fehér gólya, Ciconia ciconia, CICCIC  
+Fehérhátú fakopáncs, Dendrocopos leucotos, DENLEU  
+Fehérkarmú vércse, Falco naumanni, FALNAU  
+Fehérszárnyú szerkő, Chlidonias leucopterus, CHLLEU  
+Fekete gólya, Ciconia nigra, CICNIG  
+Fekete harkály, Dryocopos martius, DRYMAR  
+Feketenyakú vöcsök, Podiceps nigricollis, PODNIG  
+Fekete réce, Melanitta nigra, MELNIG  
+Fekete rigó, Turdus merula, TURMER  
+Fekete sas, Aquila clanga, AQUCLA  
+Feketeszárnyú székicsér, Glareola nordmanni, GLANOR  
+Fenyérfutó, Caladris alba, CALALB  
+Fenyőpinty, Fringilla montifringilla, FRIMON  
+Fenyőrigó, Turdus pilaris, TURPIL  
+Fenyősármány, Emberiza leucocephalos, EMBLEU  
+Fenyőszajkó, Nucifraga caryocatactes, NUCCAR  
+Fenyvescinege, Parus ater, PARATE  
+Fitiszfüzike, Phylloscopus trochilus, PHYTRO  
+Fogoly, Perdix perdix, PERPER  
+Foltos nádiposzáta, Acrocephalus schoenobaenus, ACRSCH  
+Függőcinege, Remiz pendulinus, REMPEN  
+Fülemüle, Luscinia megarhynchos, LUSMEG  
+Fülemülesitke, Acrocephalus melanopogon, ACRMEL  
+Füleskuvik, Otus scops, OTUSCO  
+Füles vöcsök, Podiceps auritus, PODAUR  
+Fürj, Coturnix coturnix, COTCOT  
+Füsti fecske, Hirundo rustica, HIRRUS  
+Füstös cankó, Tringa erythropus, TRIERY  
+Füstös réce, Melanitta fusca, MELFUS  
+Fütyülő réce, Anas penelope, ANAPEN  
+Gatyáskuvik, Aegolius funereus, AEGFUN  
+Gatyás ölyv, Buteo lagopus, BUTLAG  
+Gólyatöcs, Himantopus himantopus, HIMHIM  
+Gulipán, Recurvirostra avosetta, RECAVO  
+Guvat, Rallus aquaticus, RALAQU  
+Gyöngybagoly, Tyto alba, TYTALB  
+Gyurgyalag, Merops apiaster, MERAPI  
+Gyűrűscsőrű sirály, Larus delawarensis, LARDEL  
+Hajnalmadár, Tichodroma muraria, TICMUR  
+Halászsas, Pandion haliaetus, PANHAL  
+Halászsirály, Larus ichtyaetus, LARICH  
+Halcsontfarkú réce, Oxyura jamaicensis, OXYJAM  
+Halvány geze, Hippolais pallida, HIPPAL  
+Halvány sarlósfecske, Apus pallidus, APUPAL  
+Hamvas küllő, Pica canus, PICCAN  
+Hamvas rétihéja, Circus pygargus, CIRPYG  
+Hantmadár, Oenanthe oenanthe, OENOEN  
+Haris, Crex crex, CRECRE  
+Havasi csóka, Pyrrhocorax graculus, PYRGRA  
+Havasi fülespacsirta, Eremophila alpestris, EREALP  
+Havasi lile, Charadrius morinellus, CHAMOR  
+Havasi partfutó, Caladris alpina, CALALP  
+Havasipinty, Montifringilla nivalis, MONNIV  
+Havasi pityer, Anthus spinoletta, ANTSPI  
+Havasi sarlósfecske, Apus melba, APUMEL  
+Havasi szürkebegy, Prunella collaris, PRUCOL  
+Havasi varjú, Pyrrhocorax pyrrhocorax, PYRRAX  
+Házi rozsdafarkú, Phoenicurus ochruros, PHOOCH  
+Házi veréb, Passer domesticus, PASDOM  
+Hegyi billegető, Motacilla cinerea, MOTCIN  
+Hegyi fakusz, Certhia familiaris, CERFAM  
+Hegyi réce, Aythya marila, AYTMAR  
+Héja, Accipiter gentilis, ACCGEN  
+Héjasas, Hieraaetus fasciatus, HIEFAS  
+Heringsirály, Larus fuscus, LARFUS  
+Hóbagoly, Nyctea scandiaca, NYCSCA  
+Holló, Corvus corax, CORRAX  
+Hósármány, Plectrophenax nivalis, PLENIV  
+Hosszúcsőrű cankógoda, Limnodromus scolopaceus, LIMSCO  
+Indiai lúd, Anser indicus, ANSIND  
+Jeges búvár, Gavia immer, GAVIMM  
+Jegesréce, Clangula hyemalis, CLAHYE  
+Jeges sirály, Larus hyperboreus, LARHYP  
+Jégmadár, Alcedo atthis, ALCATT  
+Kabasólyom, Falco subbuteo, FALSUB  
+Kacagócsér, Gelochelidon nilotica, GELNIL  
+Kakukk, Cuculus canorus, CUCCAN  
+Kalandrapacsirta, Melanocorypha calandra, MELCAL  
+Kanadai lúd, Branta canadensis, BRACAN  
+Kanalasgém, Platalea leucorodia, PLALEU  
+Kanalas réce, Anas clypeata, ANACLY  
+Karmazsinpirók, Carpodacus erythrinus, CARERY  
+Kárókatona, Phalacrocorax carbo, PHACAR  
+Karvaly, Accipiter nisus, ACCNIS  
+Karvalybagoly, Surnia ulula, SURULU  
+Karvalyposzáta, Sylvia nisoria, SYLNIS  
+Kékbegy, Luscinia svecica, LUSSVE  
+Kék cinege, Parus caeruleus, PARCAE  
+Kékcsőrű réce, Oxyura leucocephala, OXYLEU  
+Kékes rétihéja, Circus cyaneus, CIRCYA  
+Kék fú, Porphyrio porphyrio, PORRIO  
+Kék galamb, Columba oenas, COLOEN  
+Kék vércse, Falco vespertinus, FALVES  
+Keleti gerle, Streptopelia orientalis, STRORI  
+Kenderike, Carduelis cannabina, CARCAN  
+Kendermagos réce, Anas strepera, ANASTR  
+Kenti csér, Sterna sandvicensis, STESAN  
+Kerceréce, Bucephala clangula, BUCCLA  
+Kerecsensólyom, Falco cherrug, FALCHE  
+Keresztcsőrű, Loxia curvirostra, LOXCUR  
+Kerti geze, Hippolais icterina, HIPICT  
+Kerti poszáta, Sylvia borin, SYLBOR  
+Kerti rozsdafarkú, Phoenicurus phoenicurus, PHOPHO  
+Kerti sármány, Emberiza hortulana, EMBHOR  
+Kígyászölyv, Circaetus gallicus, CIRGAL  
+Királyfüzike, Phylloscopus proregulus, PHYPRO  
+Kis bukó, Mergus albellus, MERALB  
+Kis csér, Sterna albifrons, STEALB  
+Kis fakopáncs, Dendrocopos minor, DENMIN  
+Kis goda, Limosa lapponica, LIMLAP  
+Kis hattyú, Cygnus columbianus, CYGCOL  
+Kis héja, Accipiter brevipes, ACCBRE  
+Kis kárókatona, Phalacrocorax pygmeus, PHAPYG  
+Kis kócsag, Egretta garzetta, EGRGAR  
+Kis légykapó, Ficedula parva, FICPAR  
+Kis lile, Charadrius dubius, CHADUB  
+Kis lilik, Anser erythropus, ANSERY  
+Kis őrgébics, Lanius minor, LANMIN  
+Kis partfutó, Calidris pusilla, CALPUS  
+Kis póling, Numenius phaeopus, NUMPHA  
+Kis poszáta, Sylvia curruca, SYLCUR  
+Kis sárszalonka, Lymnocryptes minimus, LYMMIN  
+Kis sirály, Larus minutus, LARMIN  
+Kis sólyom, Falco columbarius, FALCOL  
+Kis vízicsibe, Porzana parva, PORPAR  
+Kis vöcsök, Tachybaptus ruficollis, TACRUF  
+Kőforgató, Arenaria interpres, AREINT  
+Kontyos réce, Aythya fuligula, AYTFUL  
+Kormosfejű cinege, Parus montanus, PARMON  
+Kormos légykapó, Ficedula hypoleuca, FICHYP  
+Kormos szerkő, Chlidonias niger, CHLNIG  
+Kövirigó, Monticola saxatilis, MONSAX  
+Közép fakopáncs, Dendrocopos medius, DENMED  
+Kucsmás poszáta, Sylvia melanocephala, SYLMEL  
+Kucsmás sármány, Emberiza melanocephala, EMBMEL  
+Küszvágócsér, Sterna hirundo, STEHIR  
+Kuvik, Athene noctua, ATHNOC  
+Laposcsőrű víztaposó, Phalaropus fulicarius, PHAFUL  
+Lappantyú, Caprimulgus europaeus, CAPEUR  
+Léprigó, Turdus viscivorus, TURVIS  
+Lilebíbic, Chettusia gregaria, CHEGRE  
+Lócsér, Sterna caspia, STECAS  
+Lunda, Fratercula arctica, FRAARC  
+Macskabagoly, Strix aluco, STRALU  
+Márványos réce, Marmaronetta angustrirosrtris, MARANG  
+Meggyvágó, Coccothraustres coccothraustes, COCCOC  
+Mezei pacsirta, Alauda arvensis, ALAARV  
+Mezei poszáta, Sylvia communis, SYLCOM  
+Mezei veréb, Passer montanus, PASMON  
+Molnárfecske, Delichon urbicum, DELURB  
+Nádirigó, Acrocephalus arundinaceus, ACRARU  
+Nádi sármány, Emberiza schoeniclus, EMBSCH  
+Nádi tücsökmadár, Locustella luscinioides, LOCLUS  
+Nagy bukó, Mergus merganser, MERMER  
+Nagy fakopáncs, Dendrocopos major, DENMAJ  
+Nagy fülemüle, Luscinia luscinia, LUSLUS  
+Nagy goda, Limosa limosa, LIMLIM  
+Nagy halfarkas, Stercorarius skua, STESKU  
+Nagy kócsag, Egretta alba, EGRALB  
+Nagy lilik, Anser albifrons, ANSALB  
+Nagy őrgébics, Lanius exubitor, LANEXC  
+Nagy pirók, Pinicola enucleator, PINENU  
+Nagy póling, Numenius arquata, NUMARQ  
+Nagy sárszalonka, Gallinago media, GALMED  
+Naumann-rigó, Turdus naumanni, TURNAU  
+Nílusi lúd, Alopochen aegyptiacus, ALOAEG  
+Nyaktekercs, Jynx torquilla, JYNTOR  
+Nyári lúd, Anser anser, ANSANS  
+Nyílfarkú halfarkas, Stercorarius longicaudus, STELON  
+Nyílfarkú réce, Anas acuta, ANAACU  
+Nyírfajd, Tetrao tetrix, TETRIX  
+Ökörszem, Troglodytes troglodytes, TROTRO  
+Örvös bukó, Mergus serrator, MERSER  
+Örvös galamb, Columba palumbus, COLPAL  
+Örvös légykapó, Ficedula albicollis, FICALB  
+Örvös lúd, Branta bernicla, BRABER  
+Örvös rigó, Turdus torquatus, TURTOR  
+Őszapó, Aegithalos caudatus, AEGCAU  
+Pajzsoscankó, Philomachus pugnax, PHIPUG  
+Parlagi galamb, Columba livia, COLICA  
+Parlagi pityer, Anthus campestris, ANTCAM  
+Parlagi sas, Aquila helica, AQUHEL  
+Pártásdaru, Anthropoides virgo, ANTVIR  
+Partifecske, Riparia riparia, RIPRIP  
+Parti lile, Charadrius hiaticula, CHAHIA  
+Pásztorgém, Bubulcus ibis, BUBIBI  
+Pásztormadár, Sturnus roseus, STUROS  
+Pehelyréce, Somateria mollissima, SOMMOL  
+Pettyes vízicsibe, Porzana porzana, PORANA  
+Piroslábú cankó, Tringa totanus, TRITOT  
+Prérisirály, Larus pipixcan, LARPIP  
+Pusztai hantmadár, Oenanthe isabellina, OENISA  
+Pusztai ölyv, Buteo rufinus, BUTRUF  
+Pusztai sas, Aquila nipalensis, AQUNIP  
+Réti cankó, Tringa glareola, TRIGLA  
+Réti fülesbagoly, Asio flammeus, ASIFLA  
+Réti pityer, Anthus pratensis, ANTPRA  
+Rétisas, Haliaeetus albicilla, HALALB  
+Réti tücsökmadár, Locustella naevia, LOCNAE  
+Reznek, Otis tetrax, TETRAX  
+Rövidcsőrű lúd, Anser brachyrhynchus, ANSBRA  
+Rövidkarmú fakusz, Certhia brachydactyla, CERBRA  
+Rózsás flamingó, Phoenicopterus ruber, PHORUB  
+Rózsás gödény, Pelecanus onocrotalus, PELONO  
+Rózsás pirók, Carpodacus roseus, CARROS  
+Rozsdás csuk, Saxicola rubetra, SAXRUB  
+Rozsdás nádiposzáta, Acrocephalus agricola, ACRAGR  
+Rozsdástorkú pityer, Anthus cervinus, ANTCER  
+Sárga billegető, Motacilla flava, MOTFLA  
+Sárgacsőrű kenderike, Carduelis flavirostris, CARRIS  
+Sárgafejű királyka, Regulus regulus, REGREG  
+Sárgalábú cankó, Tringa flavipes, TRIFLA  
+Sárgalábú sirály, Larus cachinnans, LARCAC  
+Sárgarigó, Oriolus oriolus, ORIORI  
+Sárjáró, Limicola falcinellus, LIMFAL  
+Sarkantyús pityer, Anthus richardi, ANTRIC  
+Sarkantyús sármány, Calcarius lapponicus, CALLAP  
+Sarki búvár, Gavia arctica, GAVARC  
+Sarki csér, Sterna paradisaea, STEAEA  
+Sarki lúd, Anser caerulescens, ANSCAE  
+Sarki partfutó, Calidris canutus, CALCAN  
+Sarki sirály, Larus glaucoides, LARGLA  
+Sarlósfecske, Apus apus, APUAPU  
+Sarlós partfutó, Calidris ferruginea, CALFER  
+Sárszalonka, Gallinago gallinago, GALGAL  
+Seregély, Sturnus vulgaris, STUVUL  
+Siketfajd, Tetrao urogallus, TETURO  
+Sisegő füzike, Phylloscopus sibilatrix, PHYSIB  
+Sivatagi hantmadár, Oenanthe deserti, OENDES  
+Sivatagi lile, Charadrius leschenaultii, CHALES  
+Sordély, Miliaria calandra, MILCAL  
+Sövénysármány, Emberiza cirlus, EMBCIR  
+Steller-pehelyréce, Polysticta stelleri, POLSTE  
+Süvöltő, Pyrrhula pyrrhula, PYRULA  
+Szajkó, Garrulus glandarius, GARGLA  
+Szalagos keresztcsőrű, Loxia leucoptera, LOXLEU  
+Szalakóta, Coracias garrulus, CORGAR  
+Szárcsa, Fulica atra, FULATR  
+Szarka, Pica pica, PICPIC  
+Székicsér, Glareola pratincola, GLAPRA  
+Széki lile, Charadrius alexandrinus, CHAALE  
+Szélesfarkú halfarkas, Stercorarius pomarinus, STEPOM  
+Széncinege, Parus major, PARMAJ  
+Szerecsensirály, Larus melanocephalus, LARMEL  
+Szikipacsirta, Calandrella brachydactyla, CALBRA  
+Szirti sas, Aquila chrysaetos, AQUCHR  
+Szőlőrigó, Turdus iliacus, TURILI  
+Szürke cankó, Tringa nebularia, TRINEB  
+Szürke gém, Ardea cinerea, ARDCIN  
+Szürke légykapó, Muscicapa striata, MUSSTR  
+Szürke zsezse, Carduelis hornemanni, CARHOR  
+Talpastyúk, Syrrhaptes paradoxus, SYRPAR  
+Tavi cankó, Tringa stagnatilis, TRISTA  
+Temminck-partfutó, Calidris temminckii, CALTEM  
+Tengelic, Carduelis carduelis, CARCAR  
+Tengeri partfutó, Calidris maritima, CALMAR  
+Terekcankó, Xenus cinereus, XENCIN  
+Tőkés réce, Anas plathyrhynchos, ANAPLA  
+Törpegém, Ixobrychus minutus, IXOMIN  
+Törpekuvik, Glaucidium passerinum, GLAPAS  
+Törpesármány, Emberiza pusilla, EMBPUS  
+Törpesas, Hieraaetus pennatus, HIEPEN  
+Törpevízicsibe, Porzana pusilla, PORPUS  
+Töviszúró gébics, Lanius collurio, LANCOL  
+Tüskés bíbic, Hoplopterus spinosus, HOPSPI  
+Tüzesfejű királyka, Regulus ignicapellus, REGIGN  
+Túzok, Otis tarda, OTITAR  
+Ugartyúk, Burhinus oedicnemus, BUROED  
+Uhu, Bubo bubo, BUBBUB  
+Uráli bagoly, Strix uralensis, STRURA  
+Üstökösgém, Ardeola ralloides, ARDRAL  
+Üstökös réce, Netta rufina, NETRUF  
+Vadgerle, Streptopelia turtur, STRTUR  
+Vándorfüzike, Phylloscopus inornatus, PHYINO  
+Vándorpartfutó, Calidris melanotos, CALMEL  
+Vándorsólyom, Falco peregrinus, FALPER  
+Vastagcsőrű füzike, Phylloscopus schwarzi, PHYSCH  
+Vékonycsőrű póling, Numenius tenuirostris, NUMTEN  
+Vékonycsőrű sirály, Larus genei, LARGEN  
+Vékonycsőrű víztaposó, Phalaropus lobatus, PHALOB  
+Vetési lúd, Anser fabalis, ANSFAB  
+Vetési varjú, Corvus frugilegus, CORFRU  
+Viharsirály, Larus canus, LARCAN  
+Vízirigó, Cinclus cinclus, CINCIN  
+Vizityúk, Gallinula chloropus, GALCHL  
+Vörhenyes fecske, Hirundo daurica, HIRDAU  
+Vörös ásólúd, Tadorna ferruginea, TADFER  
+Vörösbegy, Erithacus rubecula, ERIRUB  
+Vörösfejű gébics, Lanius senator, LANSEN  
+Vörös gém, Ardea purpurea, ARDPUR  
+Vörös kánya, Milvus milvus, MILMIL  
+Vörösnyakú lúd, Branta ruficollis, BRARUF  
+Vörösnyakú vöcsök, Podiceps grisegena, PODENA  
+Vörös vércse, Falco tinnunculus, FALTIN  
+Zátonykócsag, Egretta gularis, EGRGUL  
+Zöldike, Carduelis chloris, CARCHL  
+Zöld küllő, Pica viridis, PICVIR  
+Zöldszárnyú réce, Anas carolinensis, ANACAR  
+Zsezse, Carduelis flammea, CARMEA

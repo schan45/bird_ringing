@@ -1,0 +1,5 @@
+HU2165;Bajszos poszáta;2024.01.12 00:00;Pomáz;R;F;H;K;K
+HU2165;Törpekuvik;2024.01.12 00:00;Pomáz;R;F;H;K;K
+HU2165;Bajszos poszáta;2024.01.12 00:00;Pomáz;R;F;H;K;K
+HU2165;Törpekuvik;2024.01.12 00:00;Pomáz;R;F;H;K;K
+HU2165;Törpekuvik;2024.01.12 00:00;Pomáz;R;F;T;K;K
